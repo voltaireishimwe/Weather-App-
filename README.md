@@ -20,7 +20,7 @@ Tech Stack
         Room for local data caching
         Material Design Components for modern UI
 
-Screenshots
+
 ![git1](https://github.com/user-attachments/assets/c80324d2-9eec-4454-9772-3ed9587e0cd9)
 ![git2](https://github.com/user-attachments/assets/df0c30de-9d3c-4fce-8eee-b6e4c3a5a0c2)
 
