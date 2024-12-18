@@ -1,8 +1,8 @@
 # Weather-App-
-A sleek and user-friendly Android application that provides accurate and up-to-date weather information for any location worldwide. Designed with a focus on performance, usability, and modern UI principles, this app is perfect for users who want reliable weather forecasts at their fingertips.
+A sleek and user-friendly Android application that provides accurate and up-to-date weather information for any location worldwide. Designed with a focus on performance, usability, and modern UI principles, this app is perfect for users who want reliable weather🌦️ forecasts at their fingertips.
 Features
 
-    Real-Time Weather Updates: Current temperature, weather conditions, and wind speed.
+    Real-Time Weather🌦️ Updates: Current temperature, weather conditions, and wind speed.
     7-Day Forecast: Extended weather forecast to plan your week effectively.
     Search by Location: Find weather information for any city or use GPS for automatic location detection.
     Interactive UI: Minimalist design with animations for a delightful user experience.
