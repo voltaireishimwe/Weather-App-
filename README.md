@@ -22,6 +22,7 @@ Tech Stack
 Contributing
 
     Contributions are welcome! If you have any suggestions, bug fixes, or new features, feel free to open a pull request.
+Screenshots
 
 
 ![git1](https://github.com/user-attachments/assets/c80324d2-9eec-4454-9772-3ed9587e0cd9)
