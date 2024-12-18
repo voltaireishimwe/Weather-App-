@@ -19,6 +19,9 @@ Tech Stack
         Glide for image loading
         Room for local data caching
         Material Design Components for modern UI
+Contributing
+
+    Contributions are welcome! If you have any suggestions, bug fixes, or new features, feel free to open a pull request.
 
 
 ![git1](https://github.com/user-attachments/assets/c80324d2-9eec-4454-9772-3ed9587e0cd9)
